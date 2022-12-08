@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning the deep concepts of node. I want to learn about db's SQL NoSQL and learn diffrent architecture.
 - 💞️ I’m looking to collaborate on backend projects and everything that has new challengs.
 - - 📫 you can reach me on email and mobile:
--   email: syataheri7@gmail.com
--   mobile: 09148544116
+-       email: syataheri7@gmail.com
+-       mobile: 09148544116
+-       linkedin: https://www.linkedin.com/in/siamaktaheri/?originalSubdomain=ir
 
 <!---
 syataheri/syataheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
