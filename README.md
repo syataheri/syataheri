@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syataheri
-- 👀 I’m interested in programming especially in backend codeing with Node.js.  
-- 🌱 I’m currently learning the deep concepts of node. I want to learn about db's SQL NoSQL and learn diffrent architecture.
+- 👀 I love programming especially backend coding with Node.js.  
+- 🌱 I’m currently learning the deep concepts of node. I want to learn more about SQL and NoSQL databases and diffrent architecture.
 - 💞️ I’m looking to collaborate on backend projects and everything that has new challengs.
 - - 📫 you can reach me on email, mobile and linkedin:
 -       Email: syataheri7@gmail.com
